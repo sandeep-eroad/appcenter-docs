@@ -26,7 +26,7 @@ ms.tgt_pltfrm: xamarin
 
 The App Center SDK uses a modular architecture so you can use any or all of the services.
 
-Let's get started with setting up App Center Xamarin SDK in your app to use App Center Analytics and App Center Crashes. To add App Center Distribute to you app, please have a look at the [documentation for App Center Distribute](~/sdk/distribute/xamarin.md).
+Let's get started with setting up App Center Xamarin SDK in your app to use App Center Analytics and App Center Crashes. To add App Center Distribute to your app, please have a look at the [documentation for App Center Distribute](~/sdk/distribute/xamarin.md).
 
 ## 1. Prerequisites
 
